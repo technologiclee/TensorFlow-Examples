@@ -1,4 +1,6 @@
 # TensorFlow Examples
+
+[![Join the chat at https://gitter.im/technologiclee/TensorFlow-Examples](https://badges.gitter.im/technologiclee/TensorFlow-Examples.svg)](https://gitter.im/technologiclee/TensorFlow-Examples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Code examples for some popular machine learning algorithms, using TensorFlow library. This tutorial is designed to easily dive into TensorFlow, through examples. It includes both notebook and code with explanations.
 
 ## Tutorial index
